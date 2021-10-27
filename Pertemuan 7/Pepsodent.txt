@@ -1,0 +1,5 @@
+Pepsodent Action 123,Pasta,putih,210000.00
+Pepsodent Expert Protection,Pasta,putih,230000.00
+Pepsodent Fresh cool mint,pasta,putih,22000.00
+Pepsodent active white,pasta,putih,24000.00
+Pepsodent Whitening,pasta,putihbiru,25000.00
